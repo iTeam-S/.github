@@ -22,7 +22,7 @@
 
 <img width='400px' title=" MIHAINGOHERILANTO"  align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Ntsoa2112&theme=solarized-dark&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats"/>
 
-<img width='400px' title=" RAJAONARIVONY Rivo Lalaina"  align='left' src="https://github-readme-streak-stats.herokuapp.com?user=rivo2302&theme=solarized-dark&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats"/>$
+<img width='400px' title=" RAJAONARIVONY Rivo Lalaina"  align='left' src="https://github-readme-streak-stats.herokuapp.com?user=rivo2302&theme=solarized-dark&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats"/>
 
 <img width='400px' title="Rojo Valisoa"  align='right' src="https://github-readme-streak-stats.herokuapp.com?user=Rojodev69&theme=solarized-dark&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats"/>
 
