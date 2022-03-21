@@ -1,5 +1,4 @@
 <html>
-<body>
 <style>
 .avatar {
   vertical-align: middle;
@@ -18,6 +17,7 @@
     text-align: center;
 }
 </style>
+<body>
 
 <p id="cit"> " Thanks to these people for making this organization active and great "</p>
 <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"> 
