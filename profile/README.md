@@ -1,7 +1,5 @@
 <html>
 <body>
-<p id="cit"> " Thanks to these people for making this organization active and great "</p>
-<link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"> 
 <style>
 .avatar {
   vertical-align: middle;
@@ -20,6 +18,9 @@
     text-align: center;
 }
 </style>
+
+<p id="cit"> " Thanks to these people for making this organization active and great "</p>
+<link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"> 
 
 <img src="https://avatars0.githubusercontent.com/u/43904633" alt="Gaytan" class="avatar">
 <img src="https://avatars.githubusercontent.co
