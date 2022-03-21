@@ -1,3 +1,5 @@
+<html>
+<body>
 <p id="cit"> " Thanks to these people for making this organization active and great "</p>
 <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"> 
 <style>
@@ -38,3 +40,6 @@ m/u/73609825?v=4" alt="Dominick" class="avatar">
 <img src="https://avatars0.githubusercontent.com/u/77095510" alt="Tsiory" class="avatar">
 <img src="https://avatars.githubusercontent.com/u/75126543" alt="Marcellin" class="avatar">
 <img src="https://avatars0.githubusercontent.com/u/60097202" alt="" class="avatar">
+
+</body>
+</html>
