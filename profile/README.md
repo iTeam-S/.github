@@ -18,6 +18,6 @@
 <img src="../avatars/16.png" align="right" width=100px>
 <img src="../avatars/17.png" align="left" width=100px>
 <img src="../avatars/18.png" align="right" width=100px>
-<img src="../avatars/19.png" align="left" width=100px>
+<img src="../avatars/19.png" align="right" width=100px>
 <img src="../avatars/20.png" align="right" width=100px>
 <img src="../avatars/21.png" align="left" width=100px>
