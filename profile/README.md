@@ -23,7 +23,7 @@
 
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=ff1962&center=true&lines=Future+is+better%2C+when+we+build+it+together%21&duration=7000'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=008080&center=true&lines=Future+is+better%2C+when+we+build+it+together%21&duration=7000'>
 </p>
 
 
