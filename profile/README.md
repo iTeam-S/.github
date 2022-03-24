@@ -1,8 +1,6 @@
 > <h3 align='center'>Thanks to these people for making this organization active and great</h3>
 
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/1.png" width=75px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/2.png"  width=75px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/3.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/1.png" width=75px><img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/2.png"  width=75px><img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/3.png" width=75px>
 <img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/4.png"  width=75px>
 <img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/5.png" width=75px>
 <img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/6.png"  width=75px>
