@@ -1,23 +1,28 @@
 > <h3 align='center'>Thanks to these people for making this organization active and great</h3>
 
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/1.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/2.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/3.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/4.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/5.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/6.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/7.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/8.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/9.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/10.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/11.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/12.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/13.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/14.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/15.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/16.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/17.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/18.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/19.png" align="left" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/20.png" align="right" width=100px>
-<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/21.png" align="left" width=100px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/1.png" width=75px><img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/2.png"  width=75px><img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/3.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/4.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/5.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/6.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/7.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/8.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/9.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/10.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/11.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/12.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/13.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/14.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/15.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/16.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/17.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/18.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/19.png" width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/20.png"  width=75px>
+<img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/21.png" width=75px>
+
+
+<p align=center>  
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=ff1962&center=true&lines=Future+is+better%2C+when+we+build+it+together%21&duration=7000'>
+</p>
+
+
