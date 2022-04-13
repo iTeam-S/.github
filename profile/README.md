@@ -1,4 +1,8 @@
-> <h3 align='center'>Thanks to these people for making this organization active and great</h3>
+<h3 align='center'>Thanks to these people for making this organization active and great</h3>
+
+
+<p align='center'> <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=24&width=120&duration=3000&color=008080&lines=Passion;Fraternit%C3%A9;Ambition;Excellence'> </p>
+
 
 <img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/1.png" width=75px><img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/2.png"  width=75px><img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/3.png" width=75px>
 <img src="https://raw.githubusercontent.com/c3k4ah/avatars/master/4.png"  width=75px>
@@ -23,5 +27,6 @@
 
 
 <p align='center'> <img src='https://img.shields.io/static/v1?label=&message=Future+is+better%2C+when+we+build+it+together&color=teal'> </p>
+
 
 
