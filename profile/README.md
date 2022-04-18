@@ -1,4 +1,4 @@
-<h3 align='center'>Thanks to these people for making this organization active and great</h3>
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thanks+to+these+people+for+making+this+organization+active+and+great&fontSize=26"></p>
 
 
 <p align='center'> <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=24&width=120&duration=3000&color=008080&lines=Passion;Fraternit%C3%A9;Ambition;Excellence'> </p>
