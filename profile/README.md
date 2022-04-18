@@ -24,5 +24,6 @@
 
 <p align='center'> <img src='https://img.shields.io/static/v1?label=&message=Future+is+better%2C+when+we+build+it+together&color=teal'> </p>
 
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Passion%2C%20Fraternit%C3%A9%2C%20Ambition%2C%20Excellence&fontSize=26"></p>
 
 
